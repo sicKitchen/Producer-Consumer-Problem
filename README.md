@@ -57,7 +57,7 @@ make
 ## Authors
 
 * **Spencer Kitchen**
-* **Email:** spencer.kitchen@wsu.edu
+* **Email:** spencer.kitchen@wsu.edu - sckitchen.dev@gmail.com
 
 ## Acknowledgments
 
